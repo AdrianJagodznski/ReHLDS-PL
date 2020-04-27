@@ -24,3 +24,8 @@ Paczka zawiera zawsze najnowsze dostępne wersje plików.
 - [WHBlocker 1.5.696](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/WHBlocker.rar)
 - [ReAimDetector 0.2.2](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAimDetector.rar)
 - [ReSemiclip 2.3.9](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
+
+## Paczki
+### Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**.
+- [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
+- [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
