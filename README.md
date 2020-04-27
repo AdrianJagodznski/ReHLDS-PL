@@ -12,10 +12,10 @@ Paczka zawiera zawsze najnowsze dostępne wersje plików.
 ## Zawartość
 - [AMXMODX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.9.0.rar) 
 - [AMXMODX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.10.0.rar) 
-- [ReHLDS 3.7.0.695](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/blob/master/ReHLDS.rar) 
+- [ReHLDS 3.7.0.695](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/blob/master/ReHLDS.rar)
 - [ReGame 5.15.0.458](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReGame.rar)
 - [ReUnion 0.1.0.92c](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReUnion.rar)
-- [Reapi 5.12.0.192](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAPI.rar) 
+- [ReAPI 5.12.0.192](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAPI.rar) 
 - [Metamod-r 1.3.0.128](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/Metamod.rar) 
 - [ReAuthCheck 0.1.6](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAuthCheck.rar)
 - [ReChecker 2.5](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReChecker.rar)
@@ -27,5 +27,5 @@ Paczka zawiera zawsze najnowsze dostępne wersje plików.
 
 ## Paczki
 Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**.
-- [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
-- [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
+- [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.9.0%20%2B%20Dodatki.rar)
+- [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.10.0%20%2B%20Dodatki.rar)
