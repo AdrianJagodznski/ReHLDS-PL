@@ -12,9 +12,9 @@ Paczka zawiera zawsze najnowsze dostępne wersje plików.
 ## Zawartość
 - [AMXMODX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.9.0.rar) 
 - [AMXMODX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.10.0.rar) 
-- [ReHLDS 3.7.0.695](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/blob/master/ReHLDS.rar) -[OPIS](https://github.com/)
-- [ReGame 5.15.0.458](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReGame.rar) -[OPIS](https://github.com/)
-- [ReUnion 0.1.0.92c](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReUnion.rar) -[OPIS](https://github.com/)
+- [ReHLDS 3.7.0.695](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/blob/master/ReHLDS.rar) - [OPIS](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/commit/2d2d2118b8d5234752dc4ca9fe1b9c2ca783d464)
+- [ReGame 5.15.0.458](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReGame.rar) - [OPIS](https://github.com/)
+- [ReUnion 0.1.0.92c](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReUnion.rar) - [OPIS](https://github.com/)
 - [Reapi 5.12.0.192](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAPI.rar) 
 - [Metamod-r 1.3.0.128](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/Metamod.rar) 
 - [ReAuthCheck 0.1.6](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAuthCheck.rar)
