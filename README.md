@@ -1,5 +1,6 @@
-# Repozytorium ReHLDS
-Zawiera najnowsze wersje ReHLDS oraz dodatków związanych z nim
+# Repozytorium o ReHLDS i jego dodatkach
+Zawiera najnowsze wersje silnika ReHLDS oraz dodatków związanych z nim.
+Wersje AMX są gotowymi wersjami basic + cstrike
 
 ### Instalacja 
 1. Pobierz paczkę lub konkretne pliki
