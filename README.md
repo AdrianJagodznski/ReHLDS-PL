@@ -9,6 +9,11 @@ Wersje AMX są gotowymi wersjami basic + cstrike
 3. Wrzuć pliki zgodnie z ich strukturą.
 Paczka zawiera zawsze najnowsze dostępne wersje plików.
 
+## Paczki
+Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**.
+- [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.9.0%20%2B%20Dodatki.rar)
+- [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.10.0%20%2B%20Dodatki.rar)
+
 ## Zawartość
 - [AMXMODX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.9.0.rar) 
 - [AMXMODX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.10.0.rar) 
@@ -24,8 +29,3 @@ Paczka zawiera zawsze najnowsze dostępne wersje plików.
 - [WHBlocker 1.5.696](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/WHBlocker.rar)
 - [ReAimDetector 0.2.2](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAimDetector.rar)
 - [ReSemiclip 2.3.9](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
-
-## Paczki
-Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**.
-- [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.9.0%20%2B%20Dodatki.rar)
-- [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.10.0%20%2B%20Dodatki.rar)
