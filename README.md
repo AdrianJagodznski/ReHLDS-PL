@@ -26,6 +26,6 @@ Paczka zawiera zawsze najnowsze dostępne wersje plików.
 - [ReSemiclip 2.3.9](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
 
 ## Paczki
-### Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**.
+Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**.
 - [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
 - [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSemiclip.rar)
