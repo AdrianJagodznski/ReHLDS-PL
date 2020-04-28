@@ -10,7 +10,7 @@ Wersje AMX są gotowymi wersjami basic + cstrike
 Paczka zawiera zawsze najnowsze dostępne wersje plików.
 
 ## Paczki
-Paczki zawierają wszystkie wyżej wymienione moduły, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**
+Paczki zawierają wszystkie niżej wymienione moduły/pluginy, ale włączyć je należy w pliku **cstrike/addons/metamod/plugins.ini**
 
 Dodatkowo w **cstrike/addons/amxmodx/configs/modules.ini** należy włączyć **ReAPI**
 
