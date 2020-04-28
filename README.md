@@ -14,8 +14,8 @@ Paczki zawierają wszystkie niżej wymienione moduły/pluginy, ale włączyć je
 
 Dodatkowo w **cstrike/addons/amxmodx/configs/modules.ini** należy włączyć **ReAPI**
 
-- [Paczka oparta o AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.9.0%20%2B%20Dodatki.rar)
-- [Paczka oparta o AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.10.0%20%2B%20Dodatki.rar)
+- [Paczka ReHLDS + AMX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.9.0%20%2B%20Dodatki.rar) - zawiera wszystkie poniższe dodatki 
+- [Paczka ReHLDS + AMX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReHLDS%20%2B%20AMX%201.10.0%20%2B%20Dodatki.rar) - zawiera wszystkie poniższe dodatki
 
 ## Zawartość
 - [AMXMODX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/AMX%201.9.0.rar) 
