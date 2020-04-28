@@ -27,7 +27,7 @@ Dodatkowo w **cstrike/addons/amxmodx/configs/modules.ini** należy włączyć **
 - [Metamod-r 1.3.0.128](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/Metamod.rar) 
 - [ReAuthCheck 0.1.6](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAuthCheck.rar)
 - [ReChecker 2.5](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReChecker.rar)
-- [Revoice 0.1.0.34](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReVoice.rar)
+- [ReVoice 0.1.0.34](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReVoice.rar)
 - [ReSRDetector 0.1.0](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReSRDetector.rar)
 - [WHBlocker 1.5.696](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/WHBlocker.rar)
 - [ReAimDetector 0.2.2](https://github.com/AdrianJagodznski/ReHLDS-AND-ADDONS/raw/master/ReAimDetector.rar)
