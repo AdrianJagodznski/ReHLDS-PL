@@ -20,10 +20,10 @@ Dodatkowo w **cstrike/addons/amxmodx/configs/modules.ini** należy włączyć **
 ## Gotowe dodatki
 - [AMXMODX 1.9.0](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/AMX%201.9.0.rar) 
 - [AMXMODX 1.10.0](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/AMX%201.10.0.rar) 
-- [ReHLDS 3.7.0.695](https://github.com/AdrianJagodznski/ReHLDS-PL/blob/master/ReHLDS.rar)
-- [ReGame 5.16.0.460](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReGame.rar)
+- [ReHLDS 3.7.0.696](https://github.com/AdrianJagodznski/ReHLDS-PL/blob/master/ReHLDS.rar)
+- [ReGame 5.16.0.461](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReGame.rar)
 - [ReUnion 0.1.0.92c](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReUnion.rar)
-- [ReAPI 5.12.0.192](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReAPI.rar) 
+- [ReAPI 5.13.0.194](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReAPI.rar) 
 - [Metamod-r 1.3.0.128](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/Metamod.rar) 
 - [ReAuthCheck 0.1.6](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReAuthCheck.rar)
 - [ReChecker 2.5](https://github.com/AdrianJagodznski/ReHLDS-PL/raw/master/ReChecker.rar)
